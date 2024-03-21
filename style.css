@@ -272,7 +272,7 @@ h3{
     margin-top: 15px;
     text-align: left;
 }
-.testimonials-col .fa{
+.testimonials-col .fa-solid{
    color: #f44336; 
 }
 @media(max-width: 700px){
@@ -295,7 +295,11 @@ h3{
     padding: 100px 0;
 }
 
-
+.cta h1{
+    color: #fff;
+    margin-bottom: 40px;
+    padding: 0;
+}
 
 
 
